@@ -1,7 +1,7 @@
 favorites=firefox.desktop,eos-quickstart.desktop,xfce4-terminal.desktop,ristretto.desktop,org.xfce.Parole.desktop,epdfview.desktop,galculator.desktop,thunar.desktop,xfce4-taskmanager.desktop,xfce-settings-manager.desktop,pavucontrol.desktop,eos-log-tool.desktop,welcome.desktop
 recent=thunar.desktop,xfce4-taskmanager.desktop,xfce4-terminal.desktop
-button-title=EndeavourOS\ \ 
-button-icon=/usr/share/endeavouros/EndeavourOS-icon.png
+button-title=EncryptOS\ \ 
+button-icon=/usr/share/encryptos/encryptos-icon.png
 button-single-row=false
 show-button-title=true
 show-button-icon=true
@@ -80,19 +80,19 @@ command=exo-open \\0
 regex=true
 
 [action5]
-name=EndeavourOS Forum
+name=EncryptOS Forum
 pattern=forum
-command=firefox https://forum.endeavouros.com
+command=firefox https://community.snaildos.com
 regex=false
 
 [action6]
-name=EndeavourOS Forum
-pattern=help
-command=firefox https://forum.endeavouros.com
+name=EncryptOS Forum
+pattern=forum
+command=firefox https://community.snaildos.com
 regex=false
 
 [action7]
-name=EndeavourOS Info
-pattern=endeavouros
-command=firefox https://endeavouros.com
+name=EncryptOS Info
+pattern=encryptos
+command=firefox https://encryptos.snaildos.com
 regex=false
